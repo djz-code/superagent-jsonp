@@ -1,5 +1,5 @@
 if(typeof _ === 'undefined'){
-  var _ = require('underscore');
+  var _ = require('lodash');
 }
 
 var serialise = function(obj) {
